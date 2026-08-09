@@ -96,7 +96,7 @@ tests/
 ├── requirements.txt
 ├── README.md
 │
-├── models/
+|
 │
 └── tests/
     └── test_generator.py
